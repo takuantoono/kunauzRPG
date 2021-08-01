@@ -1,0 +1,2 @@
+cd c:\newgame\www
+python C:\crosswalk-10.39.235.16\make_apk.py --package=com.example.kunarpg --manifest=manifest.json
